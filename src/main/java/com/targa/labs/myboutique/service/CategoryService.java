@@ -33,8 +33,6 @@ public class CategoryService {
                     category.getProducts().size()
             );
         }
-        category.getID();
-        int name = category.getName();
         return null;
     }
 
